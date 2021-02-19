@@ -1,7 +1,7 @@
 {
   "name": "@secret-agent/emulate-chrome-83",
   "version": "1.3.1-alpha.1",
-  "description": "EmulatorPlugin for Google Chrome version 83",
+  "description": "BrowserEmulator for Chrome version 83",
   "main": "index.js",
   "dependencies": {
     "@secret-agent/commons": "1.3.1-alpha.0",

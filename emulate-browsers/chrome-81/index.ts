@@ -1,14 +1,14 @@
 import INetworkInterceptorDelegate from '@secret-agent/core-interfaces/INetworkInterceptorDelegate';
 import {
   BrowserEmulatorClassDecorator,
+  DataLoader,
   DnsOverTlsProviders,
+  DomDiffLoader,
   DomOverridesBuilder,
   getEngine,
   getTcpSettingsForOs,
   modifyHeaders,
   parseNavigatorPlugins,
-  DataLoader,
-  DomDiffLoader,
 } from '@secret-agent/emulate-browsers-base';
 import IUserAgentOption from '@secret-agent/core-interfaces/IUserAgentOption';
 import { randomBytes } from 'crypto';
