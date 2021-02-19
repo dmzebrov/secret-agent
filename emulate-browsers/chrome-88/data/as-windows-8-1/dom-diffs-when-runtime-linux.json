@@ -1,0 +1,6 @@
+{
+  "removals": ["window.document.scripts.3", "window.document.fonts.ready", "window.DomExtractor"],
+  "additions": [],
+  "order": [],
+  "changes": []
+}

@@ -1,0 +1,18 @@
+{
+  "removals": ["window.BarcodeDetector"],
+  "additions": [
+    {
+      "path": "window.Notification.prototype",
+      "propertyName": "image",
+      "prevProperty": "close",
+      "property": {
+        "_$flags": "ce",
+        "_$accessException": "TypeError: Illegal invocation",
+        "_$get": "function get image() { [native code] }",
+        "_$getToStringToString": "function toString() { [native code] }"
+      }
+    }
+  ],
+  "order": [],
+  "changes": []
+}

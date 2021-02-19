@@ -1,0 +1,11 @@
+{
+  "browserId": "chrome-87-0",
+  "browserEngine": {
+    "id": "chrome-87-0",
+    "name": "chrome",
+    "fullVersion": "87.0.4280.141",
+    "features": ["headless"],
+    "executablePathEnvVar": "CHROME_87_BIN"
+  },
+  "marketshare": 14.5
+}

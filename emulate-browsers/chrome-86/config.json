@@ -1,0 +1,11 @@
+{
+  "browserId": "chrome-86-0",
+  "browserEngine": {
+    "id": "chrome-86-0",
+    "name": "chrome",
+    "fullVersion": "86.0.4240.198",
+    "features": ["headless"],
+    "executablePathEnvVar": "CHROME_86_BIN"
+  },
+  "marketshare": 32.8
+}

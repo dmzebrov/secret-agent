@@ -1,0 +1,18 @@
+{
+  "removals": [
+    "window.Navigator.prototype.bluetooth",
+    "window.Bluetooth",
+    "window.BluetoothCharacteristicProperties",
+    "window.BluetoothDevice",
+    "window.BluetoothRemoteGATTCharacteristic",
+    "window.BluetoothRemoteGATTDescriptor",
+    "window.BluetoothRemoteGATTServer",
+    "window.BluetoothRemoteGATTService",
+    "window.BluetoothUUID",
+    "window.Text.prototype.getDestinationInsertionPoints",
+    "window.Element.prototype.getDestinationInsertionPoints"
+  ],
+  "additions": [],
+  "order": [],
+  "changes": []
+}

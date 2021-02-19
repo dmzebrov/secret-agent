@@ -1,0 +1,10 @@
+{
+  "removals": [
+    "window.Notification.prototype.image",
+    "window.Text.prototype.getDestinationInsertionPoints",
+    "window.Element.prototype.getDestinationInsertionPoints"
+  ],
+  "additions": [],
+  "order": [],
+  "changes": []
+}
